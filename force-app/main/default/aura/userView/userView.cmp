@@ -1,0 +1,28 @@
+<aura:component controller="whosViewingController">
+	<aura:attribute name="userId" type="string"/>
+   	<aura:attribute name="iconType" type="string"/>
+	<aura:attribute name="time" type="string"/>
+	
+	<aura:attribute name="_record" type="Object"/>
+    <aura:attribute name="_srecord" type="Object"/>
+	<aura:attribute name="_error" type="string"/>
+	
+	<force:recordData aura:id="forceRecord"
+	  recordId="{!v.userId}" 
+	  fields="Name, Email"
+      mode="VIEW" 
+      layoutType="FULL" 
+      targetRecord="{!v._record}" 
+      targetFields="{!v._srecord}" 
+      targetError="{!v._error}" 
+	   />
+    
+		<div class="slds-p-around--small slds-border--top">
+			<div class="slds-grid slds-grid--align-spread slds-has-flexi-truncate">
+				<p>{!v._srecord.Name} | {!v._srecord.Email}</p>
+				<p class="slds-text-color--weak slds-p-left--x-small">
+					<lightning:dynamicIcon type="score" option="{!v.iconType}" alternativeText="score"/>
+				</p>
+				</div>
+		</div>
+</aura:component>

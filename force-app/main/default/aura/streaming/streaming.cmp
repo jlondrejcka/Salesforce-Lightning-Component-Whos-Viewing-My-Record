@@ -1,0 +1,15 @@
+<aura:component access="global" controller="whosViewingController">
+    <aura:attribute name="channel" type="String" required="true"/>
+    <aura:attribute name="cometd" type="Object"/>
+    <aura:attribute name="subscription" type="Object"/>
+    <aura:handler name="destroy" value="{!this}" action="{!c.handleDestroy}"/>
+    <aura:registerEvent name="onMessage" type="c:streamingEvent"/>
+    <ltng:require scripts="{!$Resource.cometd}" afterScriptsLoaded="{!c.doInit}" />  
+
+    <!--lightning:empApi aura:id="empApi" />
+    <aura:attribute name="channel" type="String" required="true" default="event/whosViewing__e"/>
+    <aura:handler name="init" value="{!this}" action="{!c.subscribe}"/>
+    
+    <aura:attribute name="sub" type="Object" /-->
+    
+</aura:component>

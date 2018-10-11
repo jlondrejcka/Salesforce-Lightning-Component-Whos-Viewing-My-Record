@@ -1,0 +1,45 @@
+<aura:component controller="whosViewingController" implements="flexipage:availableForAllPageTypes,force:hasRecordId" access="global" >
+	  
+    <aura:attribute name="whosViewing" type="Object[]"/>
+    <aura:attribute name="recordId" type="Id"/>
+    <aura:attribute name="priorRecordId" type="string"/>
+    <aura:attribute name="isMuted" type="Boolean" default="false"/>
+    <aura:attribute name="readNotification" type="Boolean" default="true"/>
+
+    <aura:handler name="init" value="{!this}" action="{!c.onInit}"/>
+    <aura:handler name="change" value="{!v.recordId}" action="{!c.recordChange}"/>
+    <aura:handler name="change" value="{!v.whosViewing}" action="{!c.utlityNotifications}"/>
+    
+    <aura:registerEvent name="toastEvent" type="force:showToast"/>
+    
+    <lightning:utilityBarAPI aura:id="utilitybar"/>
+    
+     <div class="container">
+            <!-- Header -->
+            <div class="slds-p-around--x-small slds-border--bottom slds-theme--shade">
+              <div class="slds-grid slds-grid--align-spread slds-grid--vertical-align-center">
+                <div>
+                  <span class="slds-badge">{!v.whosViewing.length}</span>
+                </div>
+                <div>
+                  <lightning:buttonIcon onclick="{!c.onToggleMute}"
+                    iconName="{!v.isMuted ? 'utility:volume_off' : 'utility:volume_high'}"
+                    title="{!v.isMuted ? 'Unmute notifications' : 'Mute notifications'}"
+                    alternativeText="Toggle mute" variant="border-filled"/>
+                </div>
+              </div>
+            </div>
+         
+            <!-- Concurrent Viewers list -->
+              <c:streaming channel="/event/whosViewing__e" onMessage="{!c.handleMessage}"/>
+              <lightning:card title="Who is also viewing this record." class="cardHeight">
+               </lightning:card>
+            
+              <div class="slds-container--fluid slds-scrollable--y content">
+                <aura:iteration items="{!v.whosViewing}" var="view">
+                  <c:userView userId="{!view.userId__c}" time="{!view.timestamp__c}"/>
+                </aura:iteration>
+              </div>
+     </div>
+
+</aura:component>
