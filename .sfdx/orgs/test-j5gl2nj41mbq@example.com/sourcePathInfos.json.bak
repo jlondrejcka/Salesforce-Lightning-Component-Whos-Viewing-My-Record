@@ -1,0 +1,887 @@
+[
+    [
+        "/Users/jondrejcka/Desktop/Workspace/whosViewing/force-app",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Desktop/Workspace/whosViewing/force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1535495139277,
+            "changeTime": 1535495139277,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/jondrejcka/Desktop/Workspace/whosViewing/force-app/main",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Desktop/Workspace/whosViewing/force-app/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1535495139277,
+            "changeTime": 1535495139277,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jondrejcka/Desktop/Workspace/whosViewing/force-app/main/default",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Desktop/Workspace/whosViewing/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 352,
+            "modifiedTime": 1538696803720,
+            "changeTime": 1538696803720,
+            "contentHash": "337a9ed9aee03afe78aef75cbfe80e51be861f13",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jondrejcka/Desktop/Workspace/whosViewing/force-app/main/default/applications",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Desktop/Workspace/whosViewing/force-app/main/default/applications",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1538436616653,
+            "changeTime": 1538436616653,
+            "contentHash": "c8071b8b6618640d2d46f1e69e6113359f5a940d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jondrejcka/Desktop/Workspace/whosViewing/force-app/main/default/applications/Whos_Viewing.app-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Desktop/Workspace/whosViewing/force-app/main/default/applications/Whos_Viewing.app-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 549,
+            "modifiedTime": 1538436616653,
+            "changeTime": 1538436616653,
+            "contentHash": "22f4476ed19d10b762ba4b769898c504c98b76a0",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jondrejcka/Desktop/Workspace/whosViewing/force-app/main/default/aura",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Desktop/Workspace/whosViewing/force-app/main/default/aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1538696803712,
+            "changeTime": 1538696803712,
+            "contentHash": "65281b70447466a80cc1c9484d4f2bb33bcc7874",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jondrejcka/Desktop/Workspace/whosViewing/force-app/main/default/aura/streaming",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Desktop/Workspace/whosViewing/force-app/main/default/aura/streaming",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 224,
+            "modifiedTime": 1538665660704,
+            "changeTime": 1538665660704,
+            "contentHash": "063f2c760905f33625e6edd873a571ac70aeb65b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jondrejcka/Desktop/Workspace/whosViewing/force-app/main/default/aura/streaming/streaming.cmp",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Desktop/Workspace/whosViewing/force-app/main/default/aura/streaming/streaming.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 766,
+            "modifiedTime": 1538692483496,
+            "changeTime": 1538692483496,
+            "contentHash": "ccf319568b28f2ee360948c82be55a03687a273c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jondrejcka/Desktop/Workspace/whosViewing/force-app/main/default/aura/streaming/streaming.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Desktop/Workspace/whosViewing/force-app/main/default/aura/streaming/streaming.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1538665660695,
+            "changeTime": 1538665660695,
+            "contentHash": "0e56fac143bebb2d3f47b76d45c3a61ff95ee18e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jondrejcka/Desktop/Workspace/whosViewing/force-app/main/default/aura/streaming/streaming.css",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Desktop/Workspace/whosViewing/force-app/main/default/aura/streaming/streaming.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 33,
+            "modifiedTime": 1538665660702,
+            "changeTime": 1538665660702,
+            "contentHash": "73be5ee461b3eaa40bc2d3a165263f6ada4b4577",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jondrejcka/Desktop/Workspace/whosViewing/force-app/main/default/aura/streaming/streamingController.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Desktop/Workspace/whosViewing/force-app/main/default/aura/streaming/streamingController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 6253,
+            "modifiedTime": 1538692356765,
+            "changeTime": 1538692356765,
+            "contentHash": "e2190ef983c6e66abcb7d65a1794fb0b16289217",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jondrejcka/Desktop/Workspace/whosViewing/force-app/main/default/aura/streaming/streamingHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Desktop/Workspace/whosViewing/force-app/main/default/aura/streaming/streamingHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 212,
+            "modifiedTime": 1538665660697,
+            "changeTime": 1538665660697,
+            "contentHash": "2ff5c6df196817bb206f0aab424e24f0605447f9",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jondrejcka/Desktop/Workspace/whosViewing/force-app/main/default/aura/streamingEvent",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Desktop/Workspace/whosViewing/force-app/main/default/aura/streamingEvent",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1538665660720,
+            "changeTime": 1538665660720,
+            "contentHash": "82c2b4e5f39c8d266f1d2f0f063bea8c15778b97",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jondrejcka/Desktop/Workspace/whosViewing/force-app/main/default/aura/streamingEvent/streamingEvent.evt",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Desktop/Workspace/whosViewing/force-app/main/default/aura/streamingEvent/streamingEvent.evt",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 94,
+            "modifiedTime": 1538665660720,
+            "changeTime": 1538665660720,
+            "contentHash": "2ef8dec22a0b74a1c4004832f68ca7903e623aa2",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jondrejcka/Desktop/Workspace/whosViewing/force-app/main/default/aura/streamingEvent/streamingEvent.evt-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Desktop/Workspace/whosViewing/force-app/main/default/aura/streamingEvent/streamingEvent.evt-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1538665660717,
+            "changeTime": 1538665660717,
+            "contentHash": "0e56fac143bebb2d3f47b76d45c3a61ff95ee18e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jondrejcka/Desktop/Workspace/whosViewing/force-app/main/default/aura/userView",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Desktop/Workspace/whosViewing/force-app/main/default/aura/userView",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 160,
+            "modifiedTime": 1538697341283,
+            "changeTime": 1538697341283,
+            "contentHash": "d2be6f2c2542b884a43582d8b555e26d5beb7b38",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jondrejcka/Desktop/Workspace/whosViewing/force-app/main/default/aura/userView/userView.cmp",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Desktop/Workspace/whosViewing/force-app/main/default/aura/userView/userView.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 975,
+            "modifiedTime": 1539025525960,
+            "changeTime": 1539025525960,
+            "contentHash": "51c3363e11767183864b5a99d714ce0ead3220f7",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jondrejcka/Desktop/Workspace/whosViewing/force-app/main/default/aura/userView/userView.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Desktop/Workspace/whosViewing/force-app/main/default/aura/userView/userView.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1538696803713,
+            "changeTime": 1538696803713,
+            "contentHash": "0e56fac143bebb2d3f47b76d45c3a61ff95ee18e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jondrejcka/Desktop/Workspace/whosViewing/force-app/main/default/aura/userView/userViewController.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Desktop/Workspace/whosViewing/force-app/main/default/aura/userView/userViewController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 6,
+            "modifiedTime": 1539025313999,
+            "changeTime": 1539025313999,
+            "contentHash": "956671a7be9738329fcf79754a9a97bddd8187e0",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jondrejcka/Desktop/Workspace/whosViewing/force-app/main/default/aura/whosViewing",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Desktop/Workspace/whosViewing/force-app/main/default/aura/whosViewing",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1538676555396,
+            "changeTime": 1538676555396,
+            "contentHash": "2d89c869011033b484d7fe76d54ba2e81f165fde",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jondrejcka/Desktop/Workspace/whosViewing/force-app/main/default/aura/whosViewing/whosViewing.cmp",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Desktop/Workspace/whosViewing/force-app/main/default/aura/whosViewing/whosViewing.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2194,
+            "modifiedTime": 1539277470251,
+            "changeTime": 1539277470251,
+            "contentHash": "0597a049cbf235dca7d72b6a64d18495749bd480",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jondrejcka/Desktop/Workspace/whosViewing/force-app/main/default/aura/whosViewing/whosViewing.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Desktop/Workspace/whosViewing/force-app/main/default/aura/whosViewing/whosViewing.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1538436616631,
+            "changeTime": 1538436616631,
+            "contentHash": "0e56fac143bebb2d3f47b76d45c3a61ff95ee18e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jondrejcka/Desktop/Workspace/whosViewing/force-app/main/default/aura/whosViewing/whosViewingController.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Desktop/Workspace/whosViewing/force-app/main/default/aura/whosViewing/whosViewingController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 5355,
+            "modifiedTime": 1539025913981,
+            "changeTime": 1539025913981,
+            "contentHash": "85f5ce451feddfe3d256a4c53dc8334a74777b65",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jondrejcka/Desktop/Workspace/whosViewing/force-app/main/default/aura/whosViewing/whosViewingHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Desktop/Workspace/whosViewing/force-app/main/default/aura/whosViewing/whosViewingHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1500,
+            "modifiedTime": 1539023633552,
+            "changeTime": 1539023633552,
+            "contentHash": "28b107b7057fec38af08bc5bbbeb73c80f9148a0",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jondrejcka/Desktop/Workspace/whosViewing/force-app/main/default/classes",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Desktop/Workspace/whosViewing/force-app/main/default/classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1539278790595,
+            "changeTime": 1539278790595,
+            "contentHash": "87dbf7048e1619ad47d5bc3f20501f7de7620498",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jondrejcka/Desktop/Workspace/whosViewing/force-app/main/default/classes/whosViewingController.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Desktop/Workspace/whosViewing/force-app/main/default/classes/whosViewingController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1456,
+            "modifiedTime": 1539278790590,
+            "changeTime": 1539278790590,
+            "contentHash": "90ec1ef7b873d0a4dbcd75143ea79ad652529e20",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jondrejcka/Desktop/Workspace/whosViewing/force-app/main/default/classes/whosViewingController.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Desktop/Workspace/whosViewing/force-app/main/default/classes/whosViewingController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1538436616657,
+            "changeTime": 1538436616657,
+            "contentHash": "0bfc8bc49e53c8f0f6b207cf675766c0d6546ee5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jondrejcka/Desktop/Workspace/whosViewing/force-app/main/default/classes/whosViewingTest.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Desktop/Workspace/whosViewing/force-app/main/default/classes/whosViewingTest.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 713,
+            "modifiedTime": 1539278790595,
+            "changeTime": 1539278790595,
+            "contentHash": "fb77d559b67ceff3c1312c33a2d73f834c43b05c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jondrejcka/Desktop/Workspace/whosViewing/force-app/main/default/classes/whosViewingTest.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Desktop/Workspace/whosViewing/force-app/main/default/classes/whosViewingTest.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1539278790593,
+            "changeTime": 1539278790593,
+            "contentHash": "0bfc8bc49e53c8f0f6b207cf675766c0d6546ee5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jondrejcka/Desktop/Workspace/whosViewing/force-app/main/default/flexipages",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Desktop/Workspace/whosViewing/force-app/main/default/flexipages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1538436616650,
+            "changeTime": 1538436616650,
+            "contentHash": "9824972035939b253c0ae823cb314b3d9539a476",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jondrejcka/Desktop/Workspace/whosViewing/force-app/main/default/flexipages/Who_s_Viewing_UtilityBar.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Desktop/Workspace/whosViewing/force-app/main/default/flexipages/Who_s_Viewing_UtilityBar.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1689,
+            "modifiedTime": 1538665660726,
+            "changeTime": 1538665660726,
+            "contentHash": "75734ff30848e98ce7ff1161d9eef16b23ff71a6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jondrejcka/Desktop/Workspace/whosViewing/force-app/main/default/objects",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Desktop/Workspace/whosViewing/force-app/main/default/objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 160,
+            "modifiedTime": 1538687187359,
+            "changeTime": 1538687187359,
+            "contentHash": "ef9f49e7ef2e97c483c83cb57e6b32afb78c14b7",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jondrejcka/Desktop/Workspace/whosViewing/force-app/main/default/objects/Account",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Desktop/Workspace/whosViewing/force-app/main/default/objects/Account",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1538676555401,
+            "changeTime": 1538676555401,
+            "contentHash": "1003ed7ace0a22575202c755ad5f988148ca2df5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jondrejcka/Desktop/Workspace/whosViewing/force-app/main/default/objects/Account/listViews",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Desktop/Workspace/whosViewing/force-app/main/default/objects/Account/listViews",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1538676555402,
+            "changeTime": 1538676555402,
+            "contentHash": "be9f79d2d606416f1fbfd547d60270f4cb24558a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jondrejcka/Desktop/Workspace/whosViewing/force-app/main/default/objects/Account/listViews/All_Accounts.listView-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Desktop/Workspace/whosViewing/force-app/main/default/objects/Account/listViews/All_Accounts.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 454,
+            "modifiedTime": 1538676555402,
+            "changeTime": 1538676555402,
+            "contentHash": "7bb69c80b824ac795143cc785d72c14d17639002",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jondrejcka/Desktop/Workspace/whosViewing/force-app/main/default/objects/Contact",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Desktop/Workspace/whosViewing/force-app/main/default/objects/Contact",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1538687187359,
+            "changeTime": 1538687187359,
+            "contentHash": "1003ed7ace0a22575202c755ad5f988148ca2df5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jondrejcka/Desktop/Workspace/whosViewing/force-app/main/default/objects/Contact/listViews",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Desktop/Workspace/whosViewing/force-app/main/default/objects/Contact/listViews",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1538687187361,
+            "changeTime": 1538687187361,
+            "contentHash": "7cc7b4881220aac47c64a0aa287004eec5d4ecda",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jondrejcka/Desktop/Workspace/whosViewing/force-app/main/default/objects/Contact/listViews/all_contacts.listView-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Desktop/Workspace/whosViewing/force-app/main/default/objects/Contact/listViews/all_contacts.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 444,
+            "modifiedTime": 1538687187361,
+            "changeTime": 1538687187361,
+            "contentHash": "49208df5c00db061f01feb252655f129a7d289dd",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jondrejcka/Desktop/Workspace/whosViewing/force-app/main/default/objects/whosViewing__e",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Desktop/Workspace/whosViewing/force-app/main/default/objects/whosViewing__e",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1538436616641,
+            "changeTime": 1538436616641,
+            "contentHash": "37fb92421c0411c898d59c06e1dcc5d981f9d6ea",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jondrejcka/Desktop/Workspace/whosViewing/force-app/main/default/objects/whosViewing__e/fields",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Desktop/Workspace/whosViewing/force-app/main/default/objects/whosViewing__e/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 224,
+            "modifiedTime": 1538676555407,
+            "changeTime": 1538676555407,
+            "contentHash": "b4c0a83053af35656e0d79e70cad4e16e1b26d01",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jondrejcka/Desktop/Workspace/whosViewing/force-app/main/default/objects/whosViewing__e/fields/recordId__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Desktop/Workspace/whosViewing/force-app/main/default/objects/whosViewing__e/fields/recordId__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 459,
+            "modifiedTime": 1538436616642,
+            "changeTime": 1538436616642,
+            "contentHash": "1cabc00864d68533c9c27dcdac882c09486d09bf",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jondrejcka/Desktop/Workspace/whosViewing/force-app/main/default/objects/whosViewing__e/fields/responseTo__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Desktop/Workspace/whosViewing/force-app/main/default/objects/whosViewing__e/fields/responseTo__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 463,
+            "modifiedTime": 1538676555407,
+            "changeTime": 1538676555407,
+            "contentHash": "b598c604a226f71b9df6c87e34e9092d0e56499a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jondrejcka/Desktop/Workspace/whosViewing/force-app/main/default/objects/whosViewing__e/fields/status__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Desktop/Workspace/whosViewing/force-app/main/default/objects/whosViewing__e/fields/status__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 455,
+            "modifiedTime": 1538436616643,
+            "changeTime": 1538436616643,
+            "contentHash": "10903fc5a816297d63b603912865527447e6750c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jondrejcka/Desktop/Workspace/whosViewing/force-app/main/default/objects/whosViewing__e/fields/timestamp__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Desktop/Workspace/whosViewing/force-app/main/default/objects/whosViewing__e/fields/timestamp__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 414,
+            "modifiedTime": 1538436616643,
+            "changeTime": 1538436616643,
+            "contentHash": "d4491d5fdb04755b25976a8249e588236d33ae42",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jondrejcka/Desktop/Workspace/whosViewing/force-app/main/default/objects/whosViewing__e/fields/userId__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Desktop/Workspace/whosViewing/force-app/main/default/objects/whosViewing__e/fields/userId__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 455,
+            "modifiedTime": 1538436616644,
+            "changeTime": 1538436616644,
+            "contentHash": "f660702efc04ab8d37528e804613f7ecb074e0ba",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jondrejcka/Desktop/Workspace/whosViewing/force-app/main/default/objects/whosViewing__e/whosViewing__e.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Desktop/Workspace/whosViewing/force-app/main/default/objects/whosViewing__e/whosViewing__e.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 284,
+            "modifiedTime": 1538436616640,
+            "changeTime": 1538436616640,
+            "contentHash": "df57d8166dc066d8c78b1249eabab8259af73b5a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jondrejcka/Desktop/Workspace/whosViewing/force-app/main/default/permissionsets",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Desktop/Workspace/whosViewing/force-app/main/default/permissionsets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1538696803718,
+            "changeTime": 1538696803718,
+            "contentHash": "e4b93e303c52311b885bb10a8552693e2bfb5315",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jondrejcka/Desktop/Workspace/whosViewing/force-app/main/default/permissionsets/whosViewing.permissionset-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Desktop/Workspace/whosViewing/force-app/main/default/permissionsets/whosViewing.permissionset-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 583,
+            "modifiedTime": 1538696803718,
+            "changeTime": 1538696803718,
+            "contentHash": "0925b811b0601a1e0b030587d6fccc0e22da8dbb",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jondrejcka/Desktop/Workspace/whosViewing/force-app/main/default/profiles",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Desktop/Workspace/whosViewing/force-app/main/default/profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1538436616726,
+            "changeTime": 1538436616726,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jondrejcka/Desktop/Workspace/whosViewing/force-app/main/default/profiles/Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Desktop/Workspace/whosViewing/force-app/main/default/profiles/Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 19094,
+            "modifiedTime": 1538676555459,
+            "changeTime": 1538676555459,
+            "contentHash": "fffbbb0d39925bfef2827b29aada3ed673e5353d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jondrejcka/Desktop/Workspace/whosViewing/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Desktop/Workspace/whosViewing/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5342,
+            "modifiedTime": 1538676555486,
+            "changeTime": 1538676555486,
+            "contentHash": "bb5c6a9445e3bed558902cd9f2315671d8d383db",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jondrejcka/Desktop/Workspace/whosViewing/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Desktop/Workspace/whosViewing/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5342,
+            "modifiedTime": 1538676555477,
+            "changeTime": 1538676555477,
+            "contentHash": "bb5c6a9445e3bed558902cd9f2315671d8d383db",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jondrejcka/Desktop/Workspace/whosViewing/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Desktop/Workspace/whosViewing/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5680,
+            "modifiedTime": 1538676555496,
+            "changeTime": 1538676555496,
+            "contentHash": "7bee16aa0eabe50a0021a4100608579619e4b0c1",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jondrejcka/Desktop/Workspace/whosViewing/force-app/main/default/settings",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Desktop/Workspace/whosViewing/force-app/main/default/settings",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1538696803720,
+            "changeTime": 1538696803720,
+            "contentHash": "e364e4d3c503804e0ca6d6bb92ab9cc0ceac2327",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jondrejcka/Desktop/Workspace/whosViewing/force-app/main/default/settings/Security.settings-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Desktop/Workspace/whosViewing/force-app/main/default/settings/Security.settings-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2515,
+            "modifiedTime": 1538696803721,
+            "changeTime": 1538696803721,
+            "contentHash": "a39c5ffdb3c855e2da94059adea8288f484f1db3",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jondrejcka/Desktop/Workspace/whosViewing/force-app/main/default/staticresources",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Desktop/Workspace/whosViewing/force-app/main/default/staticresources",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1538436616622,
+            "changeTime": 1538436616622,
+            "contentHash": "d8e7ce48ca1714071d7663c25d63e2ef7b232bd5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jondrejcka/Desktop/Workspace/whosViewing/force-app/main/default/staticresources/cometd.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Desktop/Workspace/whosViewing/force-app/main/default/staticresources/cometd.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 125858,
+            "modifiedTime": 1538436616622,
+            "changeTime": 1538436616622,
+            "contentHash": "e913d4e230919f88e214cf8c0ebcba1f1a92f7f9",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jondrejcka/Desktop/Workspace/whosViewing/force-app/main/default/staticresources/cometd.resource-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Desktop/Workspace/whosViewing/force-app/main/default/staticresources/cometd.resource-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 257,
+            "modifiedTime": 1538436616618,
+            "changeTime": 1538436616618,
+            "contentHash": "4ad0fbf7c3a4ae2db71ac9d18f62bf19a8399681",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jondrejcka/Desktop/Workspace/whosViewing",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jondrejcka/Desktop/Workspace/whosViewing",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 320,
+            "modifiedTime": 1539279145491,
+            "changeTime": 1539279145491,
+            "contentHash": "62533bf04610bd2b3dd430aef44fc35fe8f23ec0",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
